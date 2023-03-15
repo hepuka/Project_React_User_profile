@@ -6,8 +6,6 @@ import "./Profile.css";
 const Profile = () => {
   const [userProfile, setUserProfile] = useState(profileData);
 
-  console.log(userProfile);
-
   const removeProfile = (id) => {
     const newUserProfile = userProfile.filter((item) => item.id !== id);
 
