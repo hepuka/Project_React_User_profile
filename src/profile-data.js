@@ -29,4 +29,10 @@ export const profileData = [
     job: "Fullstack Developer",
     img: "https://i.ibb.co/3hb0Dcm/profile5.png",
   },
+  {
+    id: 6,
+    name: "Dhjkie Alaba",
+    job: "Fullstack Developer",
+    img: "https://i.ibb.co/3hb0Dcm/profile5.png",
+  },
 ];
